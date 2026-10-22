@@ -1,0 +1,6 @@
+Bonezegei_Keypad	KEYWORD1
+begin	KEYWORD2
+getKey	KEYWORD2
+isPressed	KEYWORD2
+setKeyMap	KEYWORD2
+setDebounceTime	KEYWORD2
